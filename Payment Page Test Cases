@@ -1,0 +1,3 @@
+Check that After fill shipping address and payment, the product is purchased successfully.
+Check that Different payment types should be present, e.g., Credit Card, PayPal, Bank Transfers, Installments, etc.
+Check the security of the client’s card details when entered for payment.
