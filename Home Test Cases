@@ -1,0 +1,10 @@
+• Verify that home page is displayed after login or not. 
+• Verify that User name is displayed on homepage or not. 
+• Verify that featured products are present on home page or not. 
+• Verify that Search functionality is present on home page or not
+• Verify the home page of application on different browsers. 
+• Verify the alignment on the home page. 
+• Verify that products displayed on home page are clickable or not. 
+• Verify that when user clicks on a product, user should be redirected to product specification page. 
+• Verify that User profile section is present on home page or not. 
+• Verify that Products displayed on home page are categorised or not. 
