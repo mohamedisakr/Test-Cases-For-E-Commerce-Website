@@ -1,0 +1,9 @@
+Check that authenticated sellers get access to product creation panels specific to the authorized categories.
+Check that product creation is working fine for single product creation.
+Check that product creation is working fine for multiple product creations.
+Check that the maximum product creation limit for the seller is working fine, limiting the seller to create more than the desired number of products.
+Check validation for checking mandatory fields.
+Check that duplicate product creation is restricted.
+Check that seller can update the information and price of existing products.
+Check that product created by sellers get visible on the website after a specific period.
+Check that updation made by the seller get visible on the website after the specific period.
