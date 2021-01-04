@@ -1,0 +1,11 @@
+Check that user can add products to the cart.
+Check that the cart is updated with the correct name, image, and price of the product.
+Check that users can add the same product multiple times.
+Check that the price increase accordingly when a product is added multiple times.
+Check that user can add multiple products of different types.
+Check that For each item added, a corresponding name, image, and price and the total price of all things are shown.
+Check that when a product is removed from the cart, the cart gets updated and shows the actual items in the cart, total price according to the products left in the cart.
+Check that when all the products are removed from the cart, then cart balance becomes zero, no items should be displayed in the cart.
+Check that customers should be able to see more about the product when clicked on the product either as a popup or redirect to the product page.
+When a user adds products to cart and then closes the tab, then ideally, the cart should still hold your items or mainly depends on the requirements on how the cart should behave.
+Check that the cart’s price is discounted when we apply a coupon and not discounted when we use an invalid or expired coupon.
