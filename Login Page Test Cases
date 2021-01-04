@@ -1,0 +1,6 @@
+Check that there are proper validations on Login Page.
+Check for an error message if Email, password, or any required field is left blank.
+Check the validations on Email and password.
+When you log in, check that you stay logged in as you browse products. Also, you need to test the behavior.
+When the user doesn’t interact with the site for some time, will the session expire after some time? Make sure the user has been logged out after the session times out.
+When you are logged in, log out and make sure you are logged out and that you cannot access any of the accounts pages.
