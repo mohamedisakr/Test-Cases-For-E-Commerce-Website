@@ -1,0 +1,14 @@
+Check that all the required fields are present on the registration page.
+Check that the required/mandatory fields are marked with * against the field.
+Check that for better user interface dropdowns, radio buttons and checkboxes, etc. fields are displayed wherever possible instead of just text boxes.
+Check the page has both submit and cancel/reset buttons at the end.
+Check that on clicking the submit button after entering all the required fields, and the data is sent to the server.
+Check that clicking cancel/reset button after entering all the required fields, cancels the submit request, and reset all the fields.
+Check that whenever possible, validation should take place on the client-side.
+Check that not filling the mandatory fields and clicking the submit button will lead to the validation error.
+Check that not filling the optional fields and clicking the submit button will send data to the server without any validation error.
+Check the upper limit of the text boxes.
+Check validation on the date and email fields (only valid dates and valid email Ids should be allowed.
+Check validation on numeric fields by entering alphabets and special characters.
+Check that leading and trailing spaces are trimmed.
+Check that entering blank spaces on mandatory fields lead to validation error.
