@@ -1,0 +1,7 @@
+Check that users can navigate through all the products across different categories.
+Check that all the links are redirecting to correct product/category pages, and none of the links is broken.
+Check that the company logo is visible.
+Check that all the text – product, category name, price, and product description are visible.
+Check that all the images are visible.
+Check that category pages have a relevant product explicitly listed for the category.
+Check that the correct count of total products is listed on the category pages.
