@@ -1,0 +1,11 @@
+Check that on the product page, and a user can select the desired attribute of the product, e.g., size, color, etc.
+Check that users can add to cart one or more products.
+Check that user can add products to the wish list.
+Check that user can buy products added to cart after signing in to the application (or as per the functionality of the website).
+Check that user can successfully buy more than one products that were added to his/her cart.
+Check that the limit to the number of products a user can by is working correctly by displaying an error message and preventing the user from buying more than the threshold.
+Check the availability of products at desired locations.
+Check that Cash on the Delivery option of payment is working fine.
+Verify that the different pre-paid methods of payments are working fine.
+Check that product return functionality works fine.
+Check that the Cancel Order option is present.
